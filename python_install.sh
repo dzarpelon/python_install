@@ -12,5 +12,5 @@ if ! which python; then
         echo "python version "; python --version; echo " was installed"
     }
 else
-    { echo "Python is installed"; }
+    { echo "Python is installed, nothing to be done."; }
 fi
